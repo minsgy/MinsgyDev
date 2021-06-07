@@ -18,6 +18,7 @@
 - GSAP
 - GraphQL
 - Apollo
+- ReactJS
 
 ## Implement
 
@@ -30,5 +31,3 @@
 - react-lottie
 - react-reveal
 - scrollreveal
-- svg
-- GraphQL
