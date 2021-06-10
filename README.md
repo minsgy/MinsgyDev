@@ -10,11 +10,10 @@
 
 ## Wireframe
 
-- [Figma](https://www.figma.com/file/06Xd803bSC4Jdj6TQTOCQS/PortFolio-Page?node-id=4%3A0) 해당 링크를 참고해서 UI 및 Components 참고
+- [Figma](https://www.figma.com/file/06Xd803bSC4Jdj6TQTOCQS/PortFolio-Page?node-id=4%3A0) UI 및 Components
 
 ## Tech Stack
 
-- Vercel
 - GSAP
 - GraphQL
 - Apollo
